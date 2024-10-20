@@ -3,4 +3,9 @@
     <string name="user">Usuário</string>
     <string name="password">senha</string>
     <string name="enter">entrar</string>
+    <string name="erro_autenticacao">Usuário ou senha inválidos</string>
+    <string name="novo_gasto">Novo Gasto</string>
+    <string name="nova_viagem">Nova viagem</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="minhas_viagens">Minhas viagens</string>
 </resources>
